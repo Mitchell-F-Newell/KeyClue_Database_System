@@ -1,0 +1,31 @@
+.allyears {
+    margin: 20px;
+}
+
+.oneyear {
+    font-size: 1.5em;
+    font-family: inherit;
+    font-weight: 700;
+    background-color: #CCC;
+    border: 2px solid #999;
+    border-radius: 5px;
+    width: 300px;
+    float: left;
+    padding: 10px;
+    margin:  10px;
+}
+
+.keymaster {
+    font-size: .5em;
+    font-family: inherit;
+    font-weight: 100;
+    padding-top: 5px;
+    height: 1em;
+}
+
+.yearactionicons {
+    height: .8em;
+    width: auto;
+    float: right;
+    margin: 0 5px;
+}
